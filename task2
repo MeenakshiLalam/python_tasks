@@ -5,3 +5,9 @@ del employee['age']
 
 for k in employee:
    print(k,':' ,employee[k])
+   
+   
+   OUTPUT
+      name : tim
+      birthday : 1990-03-10
+      job : Software Engineer
