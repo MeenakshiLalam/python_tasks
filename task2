@@ -1,0 +1,7 @@
+employee={"name":"tim","age":30,"birthday":"1990-03-10","job":"Devops Engineer"}
+dict1={"job":"Software Engineer"}
+employee.update(dict1)
+del employee['age']
+
+for k in employee:
+   print(k,':' ,employee[k])
