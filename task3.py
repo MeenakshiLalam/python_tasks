@@ -25,3 +25,16 @@ for k in range (len(employees)):
       print("job", ':', employees[k]["job"])
       print("city", ':', employees[k]["address"]["city"])
 print(employees[1]["address"]["country"])
+
+
+OUTPUT
+  name : Tina
+job : DevOps Engineer
+city : New York
+name : Tim
+job : Developer
+city : Sydney
+Australia
+
+Process finished with exit code 0
+
