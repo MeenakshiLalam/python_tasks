@@ -126,6 +126,34 @@ class Person:
 
     def print_name(self):
         print(f" Fullname:{self.first_name} {self.last_name}")
+        
+        
+        
+        
+OUTPUT:
+   
+ Fullname:meena lalam
+list_of_lectures:['python']
+list_of_lectures:['python', 'AWS']
+lecture_list=['python', 'AWS']
+added (c++) into  list
+deleted(python)from list
+ Fullname:syam tarini
+new_subject=['python', 'java', 'DS', 'OS']
+added (CN) into subjects
+remove(DS) from subjects
+subjects: ['python'] 
+subjects: ['python', 'java'] 
+subjects: ['python', 'java', 'OS'] 
+subjects: ['python', 'java', 'OS', 'CN'] 
+lectures details
+name  = java
+max_no= 100
+duration = 3hours
+prof_list = ['mohan', 'meena', 'anjali']
+added (siri) into prof_list
+prof_list : ['siri', 'mohan', 'meena', 'anjali'] 
+
 
 
 
