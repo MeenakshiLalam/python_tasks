@@ -15,3 +15,18 @@ while guess != num:
         break
     else:
         print(" sorry try again!")
+        
+        
+  OUTPUT:
+ 
+guess a number between 1 and 9 : 
+ 4
+you entered too low number 
+guess a number between 1 and 9 : 
+ 7
+you entered too high number
+guess a number between 1 and 9 : 
+ 5
+congratulations! you won!
+
+
